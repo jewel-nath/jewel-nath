@@ -3,8 +3,8 @@
   <img src="assets/banner-light.png" alt="Jewel Nath: I build AI agents and automation for real products, and put them on robots I build myself.">
 </picture>
 
-I'm an AI engineer. By day I build backend services at Orbitax; around it,
-I build a robot of my own, OrbiBot, and advise RoboAI, the startup I
+I'm a software engineer at Orbitax. Around it, I build AI agents,
+automation and robots, including OrbiBot, and advise RoboAI, the startup I
 founded.
 
 - **Software Engineer at Orbitax:** .NET backend for an international tax
