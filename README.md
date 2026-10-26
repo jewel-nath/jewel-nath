@@ -4,12 +4,14 @@
 </picture>
 
 I'm an AI engineer. By day I build backend services at Orbitax; around it,
-I build AI products at RoboAI and a robot of my own, OrbiBot.
+I build a robot of my own, OrbiBot, and advise RoboAI, the startup I
+founded.
 
 - **Software Engineer at Orbitax:** .NET backend for an international tax
   compliance platform.
-- **Founder & AI Engineer at [RoboAI](https://roboai.one):** AI products,
-  MCP servers and AI agents.
+- **Founder & Technical Advisor at [RoboAI](https://roboai.one):** I
+  founded it in 2023 and built its AI products, MCP servers and AI agents;
+  my juniors run it now.
 - **Building OrbiBot**, a ROS 2 robot, in public on
   [YouTube](https://www.youtube.com/@jewelnathdev),
   [LinkedIn](https://www.linkedin.com/in/jewelnath/) and
