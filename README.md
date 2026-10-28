@@ -44,71 +44,34 @@ automation, and put them on robots I build myself.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<a href="https://github.com/jewel-nath/orbibot-v1"><img src="assets/card-orbibot.webp" alt="OrbiBot V1, a steel-framed mecanum robot with a LiDAR and a Raspberry Pi 5 on top"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-orbibot-dark.svg"><img src="assets/card-orbibot-light.svg" width="100%" alt="OrbiBot, my robot, built 2025 to 2026: a mecanum robot I welded, wired and coded, with STM32 firmware, LiDAR SLAM, Nav2 and an AI agent with 58 tools. ROS 2, C, Python, MCP."></picture>
 
-### [OrbiBot](https://github.com/jewel-nath/orbibot-v1)
-<sub>MY ROBOT · BUILT 2025–2026</sub>
-
-A mecanum robot I welded, wired and programmed: my own STM32 firmware,
-LiDAR SLAM, Nav2 navigation, a web dashboard and an AI agent with 58 robot
-tools.
-
-`ROS 2 Jazzy` `C` `Python` `React` `MCP`
-
-[Code](https://github.com/jewel-nath/orbibot-v1) · [Video](https://youtube.com/shorts/yCSsCJm5qBw) · [Report](https://doi.org/10.5281/zenodo.23696694)
+<sub><b><a href="https://github.com/jewel-nath/orbibot-v1">OrbiBot</a></b> · <a href="https://github.com/jewel-nath/orbibot-v1">Code</a> · <a href="https://youtube.com/shorts/yCSsCJm5qBw">Video</a> · <a href="https://doi.org/10.5281/zenodo.23696694">Report</a></sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<a href="https://teamos.site"><img src="assets/card-team-os.webp" alt="The AI powered Team OS home page"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-team-os-dark.svg"><img src="assets/card-team-os-light.svg" width="100%" alt="AI powered Team OS, an AI product at RoboAI, live: a team workspace that people and AI agents run together. 158 MCP tools; money actions wait for a person. Next.js, Supabase, MCP."></picture>
 
-### [AI powered Team OS](https://teamos.site)
-<sub>AI PRODUCT AT ROBOAI · LIVE</sub>
-
-A team workspace that people and AI agents run together. Its MCP server has
-158 tools, so ChatGPT and Claude can work inside it, and money actions wait
-for a person to approve.
-
-`Next.js` `TypeScript` `Supabase` `MCP` `OAuth 2.1`
-
-[Live site](https://teamos.site)
+<sub><b><a href="https://teamos.site">AI powered Team OS</a></b> · <a href="https://teamos.site">Live site</a></sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<a href="https://github.com/jewel-nath/robot-niko"><img src="assets/card-robot-niko.webp" alt="Robot Niko, a life-size white humanoid"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-robot-niko-dark.svg"><img src="assets/card-robot-niko-light.svg" width="100%" alt="Robot Niko, a humanoid built in 2022: a life-size, 3D-printed InMoov humanoid that talks and greets people it knows. I worked on every part, with the team at Quanta Robotics: the printing, the assembly, the servo tuning, the arm motions and the software. Python, Raspberry Pi, OpenCV."></picture>
 
-### [Robot Niko](https://github.com/jewel-nath/robot-niko)
-<sub>HUMANOID ROBOT · BUILT 2022</sub>
-
-A life-size, 3D-printed humanoid assistant in the InMoov design, built with
-the team at Quanta Robotics. I worked on every part: the printing, the
-assembly, the servo tuning, the arm motions and the software. It talks, and
-greets people it knows with a handshake.
-
-`Python` `Raspberry Pi` `OpenCV` `3D printing`
-
-[Code](https://github.com/jewel-nath/robot-niko) · [Video](https://youtu.be/6iEj3AY1AlA) · [Report](https://doi.org/10.5281/zenodo.23719561)
+<sub><b><a href="https://github.com/jewel-nath/robot-niko">Robot Niko</a></b> · <a href="https://github.com/jewel-nath/robot-niko">Code</a> · <a href="https://youtu.be/6iEj3AY1AlA">Video</a> · <a href="https://doi.org/10.5281/zenodo.23719561">Report</a></sub>
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<a href="https://shop.roboai.one"><img src="assets/card-roboai-shop.webp" alt="RoboAI Shop's home page, with the AI's parts list for a requested robot"></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-roboai-shop-dark.svg"><img src="assets/card-roboai-shop-light.svg" width="100%" alt="RoboAI Shop, an AI product at RoboAI, live: describe the robot you want to build, and the AI plans the parts list from the shop’s catalogue. Next.js, Gemini, MCP."></picture>
 
-### [RoboAI Shop](https://shop.roboai.one)
-<sub>AI PRODUCT AT ROBOAI · LIVE</sub>
-
-A robotics parts store: describe the robot you want to build, and the AI
-plans the parts list from the shop's catalogue. It never writes a price
-itself.
-
-`Next.js` `Supabase` `Gemini` `MCP`
-
-[Live site](https://shop.roboai.one)
+<sub><b><a href="https://shop.roboai.one">RoboAI Shop</a></b> · <a href="https://shop.roboai.one">Live site</a></sub>
 
 </td>
 </tr>
@@ -116,13 +79,28 @@ itself.
 
 ### More I've built
 
-| Project | What it is |
-|---|---|
-| [agentic-robotics](https://github.com/jewel-nath/agentic-robotics) | 29 skills that teach AI coding assistants ROS 2, navigation and embedded work, with material adapted from two Apache 2.0 projects, credited in the repo |
-| [ConveySort-Arm](https://github.com/jewel-nath/conveysort-arm) | A six-servo arm and a conveyor belt that sort blocks by size with OpenCV |
-| [EnviroBot](https://github.com/jewel-nath/envirobot) | A rover with an arm, built with my team at Comilla University, that finds waste with YOLOv8 and picks it up |
-| [Pi Car](https://github.com/jewel-nath/pi-car) | A Raspberry Pi car: line following, obstacle avoidance, live-video driving |
-| [Line follower](https://github.com/jewel-nath/line-follower-robot) | An Arduino PID line follower, runner-up at BAIUST EEE Day 2023 with team CoU Bots |
+<table>
+<tr>
+<td width="26%" valign="top"><b><a href="https://github.com/jewel-nath/agentic-robotics">agentic-robotics</a></b><br><sub>AI SKILLS · ROS 2</sub></td>
+<td valign="top">29 skills that teach AI coding assistants ROS 2, navigation and embedded work, with material adapted from two Apache 2.0 projects, credited in the repo</td>
+</tr>
+<tr>
+<td width="26%" valign="top"><b><a href="https://github.com/jewel-nath/conveysort-arm">ConveySort-Arm</a></b><br><sub>ROBOT ARM · OPENCV</sub></td>
+<td valign="top">A six-servo arm and a conveyor belt that sort blocks by size with OpenCV</td>
+</tr>
+<tr>
+<td width="26%" valign="top"><b><a href="https://github.com/jewel-nath/envirobot">EnviroBot</a></b><br><sub>ROVER · YOLOV8</sub></td>
+<td valign="top">A rover with an arm, built with my team at Comilla University, that finds waste with YOLOv8 and picks it up</td>
+</tr>
+<tr>
+<td width="26%" valign="top"><b><a href="https://github.com/jewel-nath/pi-car">Pi Car</a></b><br><sub>RASPBERRY PI</sub></td>
+<td valign="top">A Raspberry Pi car: line following, obstacle avoidance, live-video driving</td>
+</tr>
+<tr>
+<td width="26%" valign="top"><b><a href="https://github.com/jewel-nath/line-follower-robot">Line follower</a></b><br><sub>ARDUINO · PID</sub></td>
+<td valign="top">An Arduino PID line follower, runner-up at BAIUST EEE Day 2023 with team CoU Bots</td>
+</tr>
+</table>
 
 ## Research
 
@@ -142,32 +120,37 @@ Technical reports on my robots, each with a DOI:
 
 ## Journey
 
-| When | Role | Where |
-|---|---|---|
-| 2026 – | Software Engineer | Orbitax |
-| 2024 – 2026 | Associate Software Engineer | Orbitax |
-| 2023 – | Founder & Technical Advisor | RoboAI |
-| 2021 – 2024 | Programming & Robotics Trainer | School of Robotics, Cumilla |
-| 2020 – 2023 | Co-Founder & Robotics Programmer | Quanta Robotics |
-| 2019 – 2024 | B.Sc. Engineering in ICT | Comilla University |
+<table>
+<tr><th width="1%" align="left">When</th><th align="left">Role</th><th align="left">Where</th></tr>
+<tr><td><code>2026&nbsp;–&#8288;&nbsp;now</code></td><td>Software Engineer</td><td>Orbitax</td></tr>
+<tr><td><code>2026&nbsp;–&#8288;&nbsp;now</code></td><td>Technical Advisor</td><td>RoboAI</td></tr>
+<tr><td><code>2024&nbsp;–&#8288;&nbsp;2026</code></td><td>Associate Software Engineer</td><td>Orbitax</td></tr>
+<tr><td><code>2024&nbsp;–&#8288;&nbsp;2026</code></td><td>Robotics &amp; AI Automation Engineer, part time</td><td>RoboAI</td></tr>
+<tr><td><code>2023&nbsp;–&#8288;&nbsp;2024</code></td><td>Founder &amp; CEO</td><td>RoboAI</td></tr>
+<tr><td><code>2021&nbsp;–&#8288;&nbsp;2024</code></td><td>Programming &amp; Robotics Trainer</td><td>School of Robotics, Cumilla</td></tr>
+<tr><td><code>2020&nbsp;–&#8288;&nbsp;2023</code></td><td>Co-Founder &amp; Robotics Programmer</td><td>Quanta Robotics</td></tr>
+<tr><td><code>2019&nbsp;–&#8288;&nbsp;2024</code></td><td>B.Sc. Engineering in ICT</td><td>Comilla University</td></tr>
+</table>
 
-## Problem solving & awards
+## Problem solving &amp; awards
 
-| When | What |
-|---|---|
-| 2023 | Runner-up, Line Follower Robot contest, BAIUST EEE Day, with team CoU Bots |
-| 2021 | Top 100 of 1,051 ideas, Mujib 100 Idea Contest, with my team |
-| 2021 | [Codeforces](https://codeforces.com/profile/codeCell) Specialist, max rating 1509, with 1,200+ problems solved |
-| 2021 – 2022 | Press and TV in Bangladesh on Robot Niko and Robot Blueberry |
+<table>
+<tr><th width="1%" align="left">When</th><th align="left">What</th></tr>
+<tr><td><code>2023</code></td><td>Runner-up, Line Follower Robot contest, BAIUST EEE Day, with team CoU Bots</td></tr>
+<tr><td><code>2021</code></td><td>Top 100 of 1,051 ideas, Mujib 100 Idea Contest, with my team</td></tr>
+<tr><td><code>2021</code></td><td><a href="https://codeforces.com/profile/codeCell">Codeforces</a> Specialist, max rating 1509, with 1,200+ problems solved</td></tr>
+<tr><td><code>2021&nbsp;–&#8288;&nbsp;2022</code></td><td>Press and TV in Bangladesh on Robot Niko and Robot Blueberry</td></tr>
+</table>
 
 ## Toolkit
 
-| Area | Tools |
-|---|---|
-| **AI** | MCP, Claude API, Gemini, Ollama, RAG, Claude Code |
-| **Backend** | C#, .NET, ASP.NET Core, MongoDB, PostgreSQL |
-| **Web** | TypeScript, Next.js, React, Angular, Supabase |
-| **Robotics** | ROS 2, Nav2, MuJoCo, STM32, ESP32, Raspberry Pi, KiCad, FreeCAD |
+<table>
+<tr><th width="1%" align="left">Area</th><th align="left">Tools</th></tr>
+<tr><td><b>AI</b></td><td>MCP, Claude API, Gemini, Ollama, RAG, Claude Code</td></tr>
+<tr><td><b>Backend</b></td><td>C#, .NET, ASP.NET Core, MongoDB, PostgreSQL</td></tr>
+<tr><td><b>Web</b></td><td>TypeScript, Next.js, React, Angular, Supabase</td></tr>
+<tr><td><b>Robotics</b></td><td>ROS 2, Nav2, MuJoCo, STM32, ESP32, Raspberry Pi, KiCad, FreeCAD</td></tr>
+</table>
 
 <p align="center"><sub>Building OrbiBot in public on
 <a href="https://www.youtube.com/@jewelnathdev">YouTube</a>,
