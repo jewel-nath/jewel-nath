@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" width="100%" alt="Jewel Nath, Software Engineer, AI Agents and Automation, Robotics. Software engineer. I also build AI agents and automation, and love bringing AI into robotics.">
+  <img src="assets/banner-light.svg" width="100%" alt="Jewel Nath, Software Engineer, AI Agents and Automation, Robotics. At Orbitax, I build .NET backend services for an international tax compliance platform. I also build AI agents for smart solutions, and bring AI into robots. I like to see my code work on a physical robot.">
 </picture>
 
 <p align="center">
@@ -12,10 +12,6 @@
   <a href="https://scholar.google.com/citations?user=kmQQHAQAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-1E293B?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://www.researchgate.net/profile/Jewel-Nath-2"><img src="https://img.shields.io/badge/ResearchGate-1E293B?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 </p>
-
-I'm a software engineer at **Orbitax**, building .NET backend services for an
-international tax compliance platform. I also build AI agents and automation,
-and love bringing AI into robotics.
 
 <table>
 <tr>
