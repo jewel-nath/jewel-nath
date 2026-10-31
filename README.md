@@ -13,29 +13,6 @@
   <a href="https://www.researchgate.net/profile/Jewel-Nath-2"><img src="https://img.shields.io/badge/ResearchGate-1E293B?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 </p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**Software at Orbitax**<br>
-<sub>Backend services in .NET, reliable background workflows and Angular features for an international tax compliance platform used by multinational companies</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**AI agents & automation**<br>
-<sub>At RoboAI, the startup I founded and now advise, I built AI products that do real work: a team workspace where AI handles the tasks, and a shop where AI plans a robot's parts</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Robotics**<br>
-<sub>OrbiBot, which I build at Orbitax in my free time, and Robot Niko, a life-size humanoid I worked on every part of</sub>
-
-</td>
-</tr>
-</table>
-
 ## Featured work
 
 <table>
@@ -44,14 +21,14 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-orbibot-dark.svg"><img src="assets/card-orbibot-light.svg" width="100%" alt="OrbiBot V1, built 2025 to 2026 at Orbitax, in my free time: a mecanum robot I welded, wired and programmed. It mapped rooms with LiDAR, drove itself with Nav2 and took commands from an AI agent. 58 agent tools. ROS 2, STM32."></picture>
 
-<sub><b><a href="https://github.com/jewel-nath/orbibot-v1">OrbiBot V1</a></b> · <a href="https://github.com/jewel-nath/orbibot-v1">Code</a> · <a href="https://youtube.com/shorts/yCSsCJm5qBw">Video</a> · <a href="https://doi.org/10.5281/zenodo.23696694">Report</a></sub>
+<sub><b>OrbiBot V1</b> &nbsp; [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/jewel-nath/orbibot-v1) [![Video](https://img.shields.io/badge/Video-1E293B?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/shorts/yCSsCJm5qBw) [![Report](https://img.shields.io/badge/Report-1E293B?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23752389)</sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-team-os-dark.svg"><img src="assets/card-team-os-light.svg" width="100%" alt="AI powered Team OS, live since 2026, RoboAI: one app where a small team runs its projects, tasks, people, time and expenses, and asks AI to do the work, with a person’s approval for anything risky. 158 MCP tools. Next.js, Supabase."></picture>
 
-<sub><b><a href="https://teamos.site">AI powered Team OS</a></b> · <a href="https://teamos.site">Live site</a></sub>
+<sub><b>AI powered Team OS</b> &nbsp; [![Live site](https://img.shields.io/badge/Live%20site-1E293B?style=flat-square&logo=googlechrome&logoColor=white)](https://teamos.site)</sub>
 
 </td>
 </tr>
@@ -60,14 +37,14 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-robot-niko-dark.svg"><img src="assets/card-robot-niko-light.svg" width="100%" alt="Robot Niko, built 2022 with Quanta Robotics: a life-size, 3D-printed humanoid assistant that talks, greets the people it knows with a handshake, and follows faces with its head. I worked on every part: the printing, the assembly, the servo tuning, the arm motions and the software. 27 servos. Raspberry Pi, OpenCV."></picture>
 
-<sub><b><a href="https://github.com/jewel-nath/robot-niko">Robot Niko</a></b> · <a href="https://github.com/jewel-nath/robot-niko">Code</a> · <a href="https://youtu.be/6iEj3AY1AlA">Video</a> · <a href="https://doi.org/10.5281/zenodo.23719561">Report</a></sub>
+<sub><b>Robot Niko</b> &nbsp; [![Code](https://img.shields.io/badge/Code-1E293B?style=flat-square&logo=github&logoColor=white)](https://github.com/jewel-nath/robot-niko) [![Video](https://img.shields.io/badge/Video-1E293B?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/6iEj3AY1AlA) [![Report](https://img.shields.io/badge/Report-1E293B?style=flat-square&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23719561)</sub>
 
 </td>
 <td width="50%" valign="top" align="center">
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-roboai-shop-dark.svg"><img src="assets/card-roboai-shop-light.svg" width="100%" alt="RoboAI Shop, live since 2026, RoboAI: describe the robot you want to build, and AI lists the parts from the shop’s stock; the server, not the AI, adds up the price. Next.js, Gemini, MCP."></picture>
 
-<sub><b><a href="https://shop.roboai.one">RoboAI Shop</a></b> · <a href="https://shop.roboai.one">Live site</a></sub>
+<sub><b>RoboAI Shop</b> &nbsp; [![Live site](https://img.shields.io/badge/Live%20site-1E293B?style=flat-square&logo=googlechrome&logoColor=white)](https://shop.roboai.one)</sub>
 
 </td>
 </tr>
@@ -105,7 +82,7 @@ Technical reports on my robots, each with a DOI:
 - **OrbiBot V1: A Mecanum Mobile Robot with Microcontroller-Level Real-Time
   Control, a ROS 2 Navigation Stack, and a Tool-Using LLM Agent - Design and
   Bench Evaluation**<br>
-  <sub>J. Nath · 2026 ·</sub> [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23696694-1E293B?style=flat-square)](https://doi.org/10.5281/zenodo.23696694)
+  <sub>J. Nath · 2026 ·</sub> [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23752389-1E293B?style=flat-square)](https://doi.org/10.5281/zenodo.23752389)
 - **Robot Niko: A Life-Size 3D-Printed Humanoid Assistant on a Raspberry Pi -
   System Design and Build**<br>
   <sub>J. Nath, S. Mondol, T. Bin Parves, M. M. Khan Mahin, A. Chakraborty · 2026 ·</sub> [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23719561-1E293B?style=flat-square)](https://doi.org/10.5281/zenodo.23719561)
